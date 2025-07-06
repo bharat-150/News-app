@@ -1,2 +1,2 @@
 # News-app
-Made a news app which shows new from latest to old.
+Made a news app which shows latest news.
